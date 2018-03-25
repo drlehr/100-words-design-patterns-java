@@ -3,6 +3,7 @@ package com.hundredwordsgof.flyweight;
 /**
  * 
  * ConcreteFlyweight,implements Flyweight, and add storage for intrisnic state.
+ * Addding a comment to see if I can kick off a build with Travis CI.
  *
  */
 public class ConcreteFlyweight implements Flyweight {
